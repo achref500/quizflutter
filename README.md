@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Watch Video
+
+[![Watch the video](https://img.youtube.com/vi/Jvq8gIRFgao/maxresdefault.jpg)](https://youtu.be/Jvq8gIRFgao)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
